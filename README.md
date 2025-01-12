@@ -1,6 +1,7 @@
-# veld_data_amc_we_training_data
+# veld_data__amc_we_training_data
 
-generated and used for training in chain: https://github.com/acdh-oeaw/veld_chain_train_infer_wordembeddings_multiple_architectures__amc/tree/main
+generated and used for training in chain: 
+https://github.com/veldhub/veld_chain__train_infer_wordembeddings_multiple_architectures__amc/
 
-This repo contains only metadata due to licensing.
+This repo contains only metadata due to licensing issues.
 
